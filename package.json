@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "tiktok-live-connector": "^1.0.5",
+    "w3bstream-client-js": "^3.1.0"
+  },
+  "name": "@curtiktop/curtiktop",
+  "type": "module",
+  "version": "1.0.2",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcelo H Davini",
+  "license": "ISC",
+  "description": ""
+}
